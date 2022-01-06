@@ -1,0 +1,2 @@
+DNS - 
+SCP's - https://learn.cantrill.io/courses/730712/lectures/14293489
