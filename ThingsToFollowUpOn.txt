@@ -1,3 +1,4 @@
 DNS - https://learn.cantrill.io/courses/aws-certified-solutions-architect-associate-saa-c02/lectures/14041088
 SCP's - https://learn.cantrill.io/courses/730712/lectures/14293489
 Test - https://www.google.com
+IAM Groups - https://learn.cantrill.io/courses/aws-certified-solutions-architect-associate-saa-c02/lectures/14275293 (permissions on groups?/groups can be logged into?)
